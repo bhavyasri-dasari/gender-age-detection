@@ -1,0 +1,1 @@
+his project uses machine learning to identify the gender and age group of individuals from images or video streams. By analyzing facial features, the system predicts gender (male/female) and classifies age into predefined groups (e.g., child, teen, adult, senior). Applications include demographic analysis, personalized advertising, and enhanced user experience in smart systems.
